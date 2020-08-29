@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver:v1.19.0
+FROM gcr.io/google_containers/kube-apiserver:v1.19.0-rc.1
 MAINTAINER makai554892700
